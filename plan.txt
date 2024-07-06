@@ -1,0 +1,21 @@
+Agents
+  Characteristics:
+    characteristics can be defined in different horizontals
+      - Humor
+      - Age
+      - Reads books : Yes / No
+      - Nerd / Geek
+      - Sportsman
+      - Career : Software Engineer, Doctor, Lawyer, Writer, UnEmployed
+    BackStory:
+      Pick information from characteristic and make a template!?
+      that can mayb configured :/ hmmmmmmmmmm
+  Goal:
+    Agent is playing "Add to Story", game objective is to add 30-70 words to a running story constructed by 
+    other team mates.
+    Add to the story by understanding given story context and add to story based on your imagination, ensure
+    it is kids friendly and no vulgarity or toxicity shit.
+Tasks
+  Play the "Add to Story", add to story
+  diff b/w goal and task?!?
+Crew
